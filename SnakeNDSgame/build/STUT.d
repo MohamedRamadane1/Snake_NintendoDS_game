@@ -1,0 +1,1 @@
+STUT.o: STUT.s

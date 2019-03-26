@@ -1,0 +1,1 @@
+snak.o: snak.s
